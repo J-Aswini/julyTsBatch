@@ -22,7 +22,7 @@ this.password = password
 
 
 class CartPage extends SignUpPage{
-count : number
+public count : number
 constructor(userName: string, password: number, count: number){
     super(userName, password)
     this.count = count
