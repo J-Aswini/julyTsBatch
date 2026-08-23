@@ -94,3 +94,4 @@ type id = number | string
  }
  let curntPage:Values= Values.Home
  console.log(curntPage)
+ console.log(123)

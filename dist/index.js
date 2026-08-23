@@ -66,4 +66,5 @@ var Values;
 })(Values || (Values = {}));
 let curntPage = Values.Home;
 console.log(curntPage);
+console.log(123);
 //# sourceMappingURL=index.js.map
